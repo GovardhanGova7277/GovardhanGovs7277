@@ -18,7 +18,7 @@ I also organized workshops and sub-events to foster creativity among students.
 In my personal time, I enjoy music, analyzing movies as a film enthusiast, and keeping myself updated with new technology and philosophy 
 through YouTube interviews.
 
-# PROJECT
+# PROJECTS
 A social media login and registration system using Django framework with session management.
 
 ![Screenshot (455)](https://github.com/GovardhanGova7277/GovardhanGovs7277/assets/137605970/3482d156-2bd8-42bb-9519-8ef1eec4d626)
