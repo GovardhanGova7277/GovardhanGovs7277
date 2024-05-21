@@ -1,8 +1,8 @@
 # GovardhanGovs7277
 
 # Profiles:
-# Linkedin: https://www.linkedin.com/in/govardhan-g-1a13a1254
-# Twitter: https://x.com/Govardhangovs?t=u4qyxUV0xp9Bs7k4gppAEQ&s=09
+Linkedin: https://www.linkedin.com/in/govardhan-g-1a13a1254
+Twitter: https://x.com/Govardhangovs?t=u4qyxUV0xp9Bs7k4gppAEQ&s=09
 
 
 My name is Govardhan, and I'm a B.Tech student in Information Science and Engineering at Jain University, Bangalore, with a current CGPA of 9.0.
@@ -19,7 +19,7 @@ In my personal time, I enjoy music, analyzing movies as a film enthusiast, and k
 through YouTube interviews.
 
 # PROJECT
-# A social media login and registration system using Django framework with session management.
+A social media login and registration system using Django framework with session management.
 
 ![Screenshot (455)](https://github.com/GovardhanGova7277/GovardhanGovs7277/assets/137605970/3482d156-2bd8-42bb-9519-8ef1eec4d626)
 
@@ -27,7 +27,7 @@ through YouTube interviews.
 
 ![Screenshot (457)](https://github.com/GovardhanGova7277/GovardhanGovs7277/assets/137605970/299aa200-b0b0-422f-a891-4bb59899d504)
 
-# An API-integrated movie and TV show website.
+An API-integrated movie and TV show website.
 
 ![Screenshot (395)](https://github.com/GovardhanGova7277/GovardhanGovs7277/assets/137605970/a3033375-88a0-483f-b7f4-bb452661f917)
 
@@ -35,8 +35,10 @@ through YouTube interviews.
 
 ![Screenshot (404)](https://github.com/GovardhanGova7277/GovardhanGovs7277/assets/137605970/31a2760c-9d61-44dc-a4f5-aa7f853b9ce8)
 
-# A machine learning project predicting taxi trip durations.
+A machine learning project predicting taxi trip durations.
 
 https://github.com/GovardhanGova7277/Predicting-Taxi-Trip-Duration
+
+# Github Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GovardhanGova7277)](https://github.com/anuraghazra/github-readme-stats)
